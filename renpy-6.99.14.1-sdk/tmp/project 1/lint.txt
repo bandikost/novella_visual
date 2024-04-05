@@ -1,0 +1,18 @@
+﻿
+Ren'Py 6.99.14.1.3218 lint report, generated at: Thu Apr 04 21:05:48 2024
+
+game/script.rpy:17 The image named 'bg room' was not declared.
+
+game/script.rpy:23 The image named 'eileen happy' was not declared.
+
+
+Statistics:
+
+The game contains 2 dialogue blocks, containing 21 words and 108 characters,
+for an average of 10.5 words and 54 characters per block.
+
+The game contains 0 menus, 0 images, and 23 screens.
+
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.
